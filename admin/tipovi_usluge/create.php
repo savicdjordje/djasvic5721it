@@ -34,7 +34,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         </div>
         <div class="mb-3">
             <label for="opis" class="form-label">Opis</label>
-            <textarea name="opis" id="opis" class="form-control" rows="5"></textarea>
+            <textarea name="opis" id="opis" class="form-control tinymce" rows="5"></textarea>
         </div>
         <button type="submit" class="btn btn-success">Sačuvaj</button>
         <a href="index.php" class="btn btn-secondary">Otkaži</a>

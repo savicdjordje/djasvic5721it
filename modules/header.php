@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/5/w3.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdn.tiny.cloud/1/berdhqjm38691anuvyfcfqnv6ot5omob7v4co8gwldt3cpjt/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
     <style>
         body {font-family: "Lato", sans-serif; margin: 0; padding: 0;}
         .main-content {margin-top: 90px;}

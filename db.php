@@ -1,6 +1,6 @@
 <?php
 $host = '127.0.0.1';
-$db   = 'autolak_rezervacije';
+$db   = 'djsavic5721it';
 $user = 'root';
 $pass = '';
 $charset = 'utf8mb4';

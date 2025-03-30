@@ -49,7 +49,7 @@ if (!$tip) {
         </div>
         <div class="mb-3">
             <label for="opis" class="form-label">Opis</label>
-            <textarea name="opis" id="opis" class="form-control" rows="5"><?= $tip['opis'] ?></textarea>
+            <textarea name="opis" id="opis" class="form-control tinymce" rows="5"><?= $tip['opis'] ?></textarea>
         </div>
         <button type="submit" class="btn btn-primary">Sačuvaj izmene</button>
         <a href="list.php" class="btn btn-secondary">Otkaži</a>

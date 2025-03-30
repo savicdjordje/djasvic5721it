@@ -18,5 +18,16 @@ function myFunction() {
 }
 </script>
 
+<script>
+    tinymce.init({
+        selector: 'textarea.tinymce',
+        height: 300,
+        menubar: false,
+        plugins: 'link image code lists',
+        toolbar: 'undo redo | bold italic underline | bullist numlist | link image | code',
+        branding: false
+    });
+</script>
+
 </body>
 </html>

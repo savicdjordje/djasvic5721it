@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <title><?= $title ?? 'Admin panel' ?></title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.tiny.cloud/1/berdhqjm38691anuvyfcfqnv6ot5omob7v4co8gwldt3cpjt/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">

@@ -76,7 +76,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         <div class="mb-3">
             <label for="opis" class="form-label">Opis</label>
-            <textarea name="opis" id="opis" class="form-control" rows="4"></textarea>
+            <textarea name="opis" id="opis" class="form-control tinymce" rows="4"></textarea>
         </div>
 
         <div class="mb-3">

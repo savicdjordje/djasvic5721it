@@ -102,7 +102,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
         <p>
             <label>Dodatni opis</label>
-            <textarea class="w3-input w3-border" name="dodatni_opis"></textarea>
+            <textarea class="w3-input w3-border tinymce" name="dodatni_opis"></textarea>
         </p>
 
         <p>
